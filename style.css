@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+
+
+
+
+
+
+}
+
+.urmum {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 50px auto;
+
+
+}
+
+#apps {
+    background: linear-gradient(#cfc815 0%, #8a1111 100%);
+}
+
+#games {
+    background: linear-gradient(#cfc815 0%, #8a1111 100%);
+}
+
+#chatbot {
+    background: linear-gradient(#cfc815 0%, #8a1111 100%);
+}
+
+
+
+
+img {
+    transition: transform .2s;
+margin-left: 50px ;
+margin-right: 50px ;
+width: 300px;
+
+}
+
+
+img:hover {
+    transform: scale(1.5);
+
+}
